@@ -28,10 +28,10 @@ You’ll first need to turn on the feature in the Watch app on your iPhone
 * Go to the My Watch tab at the bottom
 * Scroll down to “Handwashing” 
 
-[Screenshot of the Watch app, with Handwashing highlighted](image:handwashing/watchapp.jpeg)
+[Screenshot of the Watch app, with Handwashing highlighted](/assets/post-images/handwashing/watchapp.jpeg)
 * And turn it on!
 
-[Screenshot of the Handwashing settings](image:handwashing/settings.jpeg)
+[Screenshot of the Handwashing settings](/assets/post-images/handwashing/settings.jpeg)
 
 ### The different options
 There are two types of notifications that you can turn on: the Handwashing Timer itself, and you can also turn on
