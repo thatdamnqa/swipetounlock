@@ -1,1 +1,38 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2019-09-20T02:16:23-05:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">Swipe to Unlock</title><subtitle>Software away from the computer</subtitle></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2020-10-17T15:18:01-05:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">Swipe to Unlock</title><subtitle>Software away from the computer</subtitle><entry><title type="html">Handwashing with the Apple Watch</title><link href="http://0.0.0.0:4000/blog/2020-09/handwashing-with-the-apple-watch" rel="alternate" type="text/html" title="Handwashing with the Apple Watch" /><published>2020-09-14T09:00:00-05:00</published><updated>2020-09-14T09:00:00-05:00</updated><id>http://0.0.0.0:4000/blog/2020-09/handwashing-with-the-apple-watch</id><content type="html" xml:base="http://0.0.0.0:4000/blog/2020-09/handwashing-with-the-apple-watch">&lt;p&gt;With the release of Watch OS 7 comes hand washing notifications. Using the sound and movements involved, your watch can
+now tell if you’re washing your hands, tell you if you need to keep going, and even remind you to wash your hands when
+you get home.&lt;/p&gt;
+
+&lt;p&gt;Once turned on, there’s nothing more you need to do. Once your watch detects that you’re washing your hands, it will
+give you a gentle tap to let you know. Once 20 seconds have passed, you get a second tap. It’s that simple.&lt;/p&gt;
+
+&lt;p&gt;During the hand washing process (and, shortly after), the time left will appear on the screen. However, in my
+experience I’ve found that looking at the timer will cause it to pause. You have, after all, stopped washing your hands
+in order to look at your watch.&lt;/p&gt;
+
+&lt;p&gt;If you flip on the reminder to wash your hands when you get home, it will send you a reminder to wash your hands.
+There isn’t a way to tell it where “home” is, so I’m guessing that it uses your Home address in your Address Book entry
+in order to do this. In my experience it’s been quite accurate in this, hasn’t reminded me to wash my hands when I
+already had, and never gave me “false” reminders when I never left home in the first place.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-to-turn-it-on&quot;&gt;How to turn it on&lt;/h2&gt;
+
+&lt;p&gt;You’ll first need to turn on the feature in the Watch app on your iPhone&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Go to the My Watch tab at the bottom&lt;/li&gt;
+  &lt;li&gt;Scroll down to “Handwashing”&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/post-images/handwashing/watchapp.jpeg&quot; alt=&quot;Screenshot of the Watch app, with Handwashing highlighted&quot; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;And turn it on!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/post-images/handwashing/settings.jpeg&quot; alt=&quot;Screenshot of the Handwashing settings&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;the-different-options&quot;&gt;The different options&lt;/h2&gt;
+&lt;p&gt;There are two types of notifications that you can turn on: the Handwashing Timer itself, and you can also turn on
+notification reminders, which will remind you to wash your hand a few minutes after you return home.&lt;/p&gt;
+
+&lt;h2 id=&quot;where-the-data-is-stored&quot;&gt;Where the data is stored&lt;/h2&gt;
+&lt;p&gt;The data is stored in the Health app on your phone, which you can get to by going to the Browse tab and searching for
+“Handwashing”.&lt;/p&gt;</content><author><name></name></author><category term="watchos," /><category term="watchos7" /><summary type="html">With the release of Watch OS 7 comes hand washing notifications. Using the sound and movements involved, your watch can now tell if you’re washing your hands, tell you if you need to keep going, and even remind you to wash your hands when you get home.</summary></entry></feed>

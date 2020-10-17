@@ -4,6 +4,7 @@ title:  "Handwashing with the Apple Watch"
 date:   2020-09-15 00:00:00 +1000
 categories: blog
 tags: watchos, watchos7
+title-image: handwashing-with-the-apple-watch.png
 ---
 
 With the release of Watch OS 7 comes hand washing notifications. Using the sound and movements involved, your watch can
@@ -22,7 +23,7 @@ There isn't a way to tell it where "home" is, so I'm guessing that it uses your 
 in order to do this. In my experience it's been quite accurate in this, hasn't reminded me to wash my hands when I
 already had, and never gave me "false" reminders when I never left home in the first place.
 
-### How to turn it on
+## How to turn it on
 
 You’ll first need to turn on the feature in the Watch app on your iPhone
 * Go to the My Watch tab at the bottom
@@ -33,10 +34,10 @@ You’ll first need to turn on the feature in the Watch app on your iPhone
 
 ![Screenshot of the Handwashing settings](/assets/post-images/handwashing/settings.jpeg)
 
-### The different options
+## The different options
 There are two types of notifications that you can turn on: the Handwashing Timer itself, and you can also turn on
 notification reminders, which will remind you to wash your hand a few minutes after you return home.
 
-### Where the data is stored
+## Where the data is stored
 The data is stored in the Health app on your phone, which you can get to by going to the Browse tab and searching for
 “Handwashing”.
