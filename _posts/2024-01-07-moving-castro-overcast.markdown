@@ -72,7 +72,6 @@ I use this playlist in two ways, depending how I'm feeling.
 1. If I decide that I should listen to a non-priority podcast episode, because I've been listening to too many priority podcasts, I will take
    the top episode of this playlist and select "Move to Queue". This will move it to the bottom of my listening queue. Note that because the
    playlist is called "Queue", Overcast makes this a very easy thing to do
-   ![Screenshot of my Overcast All Episodes playlist](/assets/post-images/overcast-allepisodes.png)
 2. If I've ran out of podcast episodes in my Queue playlist to listen to, then I will play the All Episodes playlist until more priority podcasts
    release episodes
 
