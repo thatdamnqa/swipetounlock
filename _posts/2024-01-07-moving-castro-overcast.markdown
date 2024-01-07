@@ -34,14 +34,14 @@ I have three playlists (actually four, but the fourth one is separate to my work
 * Queue
 * All Episodes
 
-![Screenshot of my Overcast playlists](/assets/overcast-playlists.png)
+![Screenshot of my Overcast playlists](/assets/post-images/overcast-playlists.png)
 
 ## Inbox
 
 This is a playlist which I _include all podcasts by default_. I do however, exclude those podcasts that I listen to all episodes of (categories 1
 and 3). This is my equivalent of my Castro inbox: new podcasts come in here when they are to be triaged
 
-![Screenshot of my Overcast Inbox playlist settings](/assets/overcast-inbox-settings.png)
+![Screenshot of my Overcast Inbox playlist settings](/assets/post-images/overcast-inbox-settings.png)
 
 When a new Podcast appears in this playlist, it means it's either a podcast episode that I might want to listen to straight away, listen to
 eventually, or not listen to at all
@@ -50,7 +50,7 @@ If I want to listen to it (either eventually or straight away), I just remove it
 There might be an odd exception where it's a postcast I usually listen to eventually but I want to listen to this specific episode straight away -
 in that cast, I move it to the Queue
 
-![Screenshot of my Overcast Inbox playlist](/assets/overcast-inbox.png)
+![Screenshot of my Overcast Inbox playlist](/assets/post-images/overcast-inbox.png)
 
 ## Queue
 
@@ -59,7 +59,7 @@ This is the playlist that I do my listening from. It is set up as a playlist to 
 this is intentional - deleting them will remove them from both playlists, and if it's an episode I haven't triaged yet, I'd prefer to listen to it
 and decide to skip the episode than to not have the episode in my queue
 
-![Screenshot of my Overcast Queue playlist settings](/assets/overcast-queue-settings.png)
+![Screenshot of my Overcast Queue playlist settings](/assets/post-images/overcast-queue-settings.png)
 
 ## All Episodes
 
@@ -72,7 +72,7 @@ I use this playlist in two ways, depending how I'm feeling.
 1. If I decide that I should listen to a non-priority podcast episode, because I've been listening to too many priority podcasts, I will take
    the top episode of this playlist and select "Move to Queue". This will move it to the bottom of my listening queue. Note that because the
    playlist is called "Queue", Overcast makes this a very easy thing to do
-   ![Screenshot of my Overcast All Episodes playlist](/assets/overcast-allepisodes.png)
+   ![Screenshot of my Overcast All Episodes playlist](/assets/post-images/overcast-allepisodes.png)
 2. If I've ran out of podcast episodes in my Queue playlist to listen to, then I will play the All Episodes playlist until more priority podcasts
    release episodes
 
