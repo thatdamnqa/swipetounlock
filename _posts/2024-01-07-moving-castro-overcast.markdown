@@ -38,7 +38,7 @@ I have three playlists (actually four, but the fourth one is separate to my work
 
 ## Inbox
 
-This is a playlist which I _include all podcasts by default_. I do however, exclude those podcasts that I listen to all episodes of (categories 1
+This is a playlist which I include all podcasts by default. I do however, exclude those podcasts that I listen to all episodes of (categories 1
 and 3). This is my equivalent of my Castro inbox: new podcasts come in here when they are to be triaged
 
 ![Screenshot of my Overcast Inbox playlist settings](/assets/post-images/overcast-inbox-settings.png)
@@ -75,10 +75,15 @@ I use this playlist in two ways, depending how I'm feeling.
 2. If I've ran out of podcast episodes in my Queue playlist to listen to, then I will play the All Episodes playlist until more priority podcasts
    release episodes
 
-## Quirks
+## Final notes
 
 There are one or two quirks to this setup: when first moving across to Overcast, the app doesn't know which episodes of which podcasts I've
 listened to, so I found myself having to manually remove podcasts that found themselves in the wrong playlist because I'd already listened to
 then in Castro. However, once my set up was complete, I've now used it for about a month with no problems
+
+It's worth noting at this point that as long as the playlists are there, and you're not sure which podcast fits into which category: that's ok.
+Until you decide otherwise, with this setup all episodes of newly subscribed podcast episodes will go into the Inbox by default so you can decide what 
+to do with them. If you decide that you no longer want to triage that podcast, you can decide to set it up to be excluded from the Inbox and/or 
+included in the Queue if you decide you want to listen to all episodes of that podcast
 
 Questions? [Hit me up](http://thatdamnqa.com)
